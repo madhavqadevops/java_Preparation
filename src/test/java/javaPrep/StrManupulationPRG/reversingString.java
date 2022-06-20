@@ -1,4 +1,4 @@
-package javaPrep;
+package javaPrep.StrManupulationPRG;
 
 import java.util.ArrayList;
 import java.util.Collections;
