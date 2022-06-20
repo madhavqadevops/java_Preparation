@@ -1,4 +1,4 @@
-package javaPrep;// Java program to remove duplicate character
+package javaPrep.StrManupulationPRG;// Java program to remove duplicate character
 // from character array and print in sorted
 // order
 import java.util.*;
